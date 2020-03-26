@@ -3,3 +3,4 @@
 *.html linguist-language=java
 *.c linguist-language=C
 *.md linguist-language=Markdown
+*.pdf linguist-language=C
